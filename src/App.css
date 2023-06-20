@@ -1,0 +1,16 @@
+#light {
+    background-color: white;
+}
+#dark {
+    background-color: black;
+    color: #fff;
+    
+}
+#dark .darada{
+    background-color: black;
+    color: #fff;
+  box-shadow: 0 3px 10px rgba(75, 124, 41, 0.2);
+}
+#dark .daradara{
+    background-color: black;
+}
